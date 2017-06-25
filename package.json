@@ -1,0 +1,25 @@
+{
+  "name": "goibibo-airport-data-json",
+  "version": "1.0.0",
+  "description": "JSON version of data publicly offered by Goibibo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarupbanskota/goibibo-airport-data-json.git"
+  },
+  "keywords": [
+    "data",
+    "api-mashup",
+    "airport",
+    "travel"
+  ],
+  "author": "Sarup Banskota <sbanskota08@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarupbanskota/goibibo-airport-data-json/issues"
+  },
+  "homepage": "https://github.com/sarupbanskota/goibibo-airport-data-json#readme"
+}
